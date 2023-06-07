@@ -1,0 +1,23 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-std=c++17",
+      "-O3",
+      "-Wall",
+      "-Ilib/glad/include",
+      "-Ilib/glfw/include",
+      "-Ilib/imgui/",
+      "-Ilib/imgui/backends/",
+      "-Ilib/ImGuiFileDialog/",
+      "-Ilib/stb/",
+      "-o",
+      "src/window.o",
+      "src/window.cpp"
+    ],
+    "directory": "/home/piyush/Programs/C/GrainAnalyzer",
+    "file": "/home/piyush/Programs/C/GrainAnalyzer/src/window.cpp",
+    "output": "/home/piyush/Programs/C/GrainAnalyzer/src/window.o"
+  }
+]

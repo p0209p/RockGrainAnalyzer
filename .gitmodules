@@ -1,0 +1,14 @@
+[submodule "glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw
+[submodule "imgui"]
+	path = lib/imgui
+	url = https://github.com/ocornut/imgui
+	branch = docking
+[submodule "ImGuiFileDialog"]
+	path = lib/ImGuiFileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog/
+	branch = Lib_Only
+[submodule "stb"]
+	path = lib/stb
+	url = https://github.com/nothings/stb
